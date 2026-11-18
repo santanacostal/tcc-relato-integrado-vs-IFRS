@@ -1,0 +1,52 @@
+﻿variavel,termo,expressao_regular
+Materialidade,materialidade,\bmaterialidade\b
+Materialidade,tema(s) material(is),\btemas? materia(?:l|is)\b
+Materialidade,informação material,\binforma(?:cao|coes) materia(?:l|is)\b
+Materialidade,partes interessadas / stakeholders,\b(?:partes interessadas|stakeholders?)\b
+Governança,governança,\bgovernanca\b
+Governança,conselho de administração,\bconselho de administracao\b
+Governança,comitê(s),\bcomites?\b
+Governança,supervisão,\bsupervis(?:ao|ionad[oa]s?|iona)\b
+Governança,diretoria,\bdiretoria\b
+Governança,alta administração,\balta administracao\b
+Estratégia e Modelo de Negócios,estratégia(s),\bestrategi(?:a|as|co|cos|ca|cas)\b
+Estratégia e Modelo de Negócios,modelo(s) de negócio,\bmodelos? de negocios?\b
+Estratégia e Modelo de Negócios,cadeia(s) de valor,\bcadeias? de valor\b
+Estratégia e Modelo de Negócios,curto/médio/longo prazo,"\b(?:curto|medio|longo) prazo\b|\bcurto, medio e longo\b"
+Estratégia e Modelo de Negócios,transição,\btransicao\b
+Riscos e Oportunidades,risco(s),\briscos?\b
+Riscos e Oportunidades,oportunidade(s),\boportunidades?\b
+Riscos e Oportunidades,risco(s) climático(s),\briscos? climaticos?\b
+Riscos e Oportunidades,risco(s) físico(s),\briscos? fisicos?\b
+Riscos e Oportunidades,risco(s) de transição,\briscos? de transicao\b
+Riscos e Oportunidades,análise de cenários / cenários climáticos,\b(?:analises? de cenarios?|cenarios? climaticos?)\b
+Riscos e Oportunidades,mitigação,\bmitigacao\b
+Riscos e Oportunidades,adaptação,\badaptacao\b
+Riscos e Oportunidades,resiliência,\bresiliencia\b
+Indicadores Climáticos,escopo 1,\bescopo 1\b
+Indicadores Climáticos,escopo 2,\bescopo 2\b
+Indicadores Climáticos,escopo 3,\bescopo 3\b
+Indicadores Climáticos,tCO2e,\bt ?co ?2? ?e\b
+Indicadores Climáticos,GHG Protocol,\bghg protocol\b
+Indicadores Climáticos,emissões,\bemissa?o(?:es)?\b|\bemissoes\b
+Indicadores Climáticos,gases de efeito estufa / GEE,\bgases? de efeito estufa\b|\bgee\b
+Indicadores Climáticos,inventário,\binventarios?\b
+Indicadores Climáticos,net zero / neutralidade de carbono,\bnet ?zero\b|\bneutralidade (?:de )?carbono\b|\bcarbono neutro\b
+Indicadores Climáticos,descarbonização,\bdescarboniza\w*
+Métricas e Metas,meta(s),\bmetas?\b
+Métricas e Metas,indicador(es),\bindicadores?\b
+Métricas e Metas,métrica(s),\bmetricas?\b
+Métricas e Metas,KPI,\bkpis?\b
+Métricas e Metas,ano-base / linha de base,\bano[- ]base\b|\blinha de base\b
+Métricas e Metas,SBTi,\bsbti\b
+Criação de Valor (RI),criação/geração de valor,\b(?:criacao|geracao) de valor\b|\b(?:criar|gerar|criamos|geramos|cria|gera) valor\b|\bvalor compartilhado\b
+Criação de Valor (RI),"capital (financeiro, humano, natural...)",\bcapital (?:financeiro|manufaturado|intelectual|humano|social|natural|de relacionamento)\b|\bcapitais (?:financeiro|manufaturado|intelectual|humano|social|natural)\b
+Criação de Valor (RI),seis capitais / mapa de capitais,\bseis capitais\b|\bmapas? de capitais\b|\bcapitais do negocio\b|\bnossos capitais\b
+Criação de Valor (RI),pensamento integrado / conectividade,\bpensamento integrado\b|\bconectividade\b|\bvisao integrada\b
+Informações Financeiras de Sustentabilidade,efeito(s)/impacto(s) financeiro(s),\b(?:efeitos?|impactos?) financeir[oa]s?\b
+Informações Financeiras de Sustentabilidade,fluxo(s) de caixa,\bfluxos? de caixa\b
+Informações Financeiras de Sustentabilidade,custo de capital,\bcustos? de capital\b
+Informações Financeiras de Sustentabilidade,acesso a financiamento/capital,\bacesso (?:a|ao) (?:financiamento|capital|credito)\b
+Informações Financeiras de Sustentabilidade,demonstrações financeiras,\bdemonstracoes financeiras\b
+Informações Financeiras de Sustentabilidade,posição/desempenho financeiro,\b(?:posicao|desempenho) financeir[oa]\b
+Informações Financeiras de Sustentabilidade,preço/precificação de carbono,\b(?:preco|precificacao) (?:interno )?(?:de )?carbono\b

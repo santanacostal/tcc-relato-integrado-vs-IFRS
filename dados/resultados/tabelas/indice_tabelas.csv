@@ -1,0 +1,22 @@
+﻿rotulo,pagina_pdf,tabela,motor,arquivo,observacao
+B3_IFRS_2025,41,1,pdfplumber,B3_IFRS_2025_p041_t1.csv,6 linhas x 4 colunas
+B3_IFRS_2025,42,1,pdfplumber,B3_IFRS_2025_p042_t1.csv,10 linhas x 4 colunas
+Irani_IFRS_2025,62,0,nenhuma,,conferir à mão
+Irani_IFRS_2025,65,1,camelot-stream,Irani_IFRS_2025_p065_t1.csv,33 linhas x 4 colunas
+Irani_IFRS_2025,66,1,camelot-stream,Irani_IFRS_2025_p066_t1.csv,33 linhas x 5 colunas
+Irani_IFRS_2025,66,2,camelot-stream,Irani_IFRS_2025_p066_t2.csv,38 linhas x 7 colunas
+Natura_IFRS_2025,54,1,camelot-stream,Natura_IFRS_2025_p054_t1.csv,9 linhas x 2 colunas
+Natura_IFRS_2025,54,2,camelot-stream,Natura_IFRS_2025_p054_t2.csv,28 linhas x 2 colunas
+Natura_IFRS_2025,55,1,pdfplumber,Natura_IFRS_2025_p055_t1.csv,30 linhas x 2 colunas
+Natura_IFRS_2025,59,1,pdfplumber,Natura_IFRS_2025_p059_t1.csv,11 linhas x 4 colunas
+Natura_IFRS_2025,60,1,pdfplumber,Natura_IFRS_2025_p060_t1.csv,7 linhas x 4 colunas
+Renner_IFRS_2025,48,1,camelot-stream,Renner_IFRS_2025_p048_t1.csv,46 linhas x 2 colunas
+Renner_IFRS_2025,51,1,pdfplumber,Renner_IFRS_2025_p051_t1.csv,5 linhas x 2 colunas
+Renner_IFRS_2025,51,2,pdfplumber,Renner_IFRS_2025_p051_t2.csv,4 linhas x 2 colunas
+Renner_IFRS_2025,51,3,pdfplumber,Renner_IFRS_2025_p051_t3.csv,8 linhas x 2 colunas
+Renner_IFRS_2025,52,1,camelot-stream,Renner_IFRS_2025_p052_t1.csv,33 linhas x 3 colunas
+Vale_IFRS_2025,73,1,pdfplumber,Vale_IFRS_2025_p073_t1.csv,9 linhas x 3 colunas
+Vale_IFRS_2025,74,1,pdfplumber,Vale_IFRS_2025_p074_t1.csv,9 linhas x 5 colunas
+Vale_IFRS_2025,74,2,pdfplumber,Vale_IFRS_2025_p074_t2.csv,9 linhas x 3 colunas
+Vale_IFRS_2025,76,1,camelot-stream,Vale_IFRS_2025_p076_t1.csv,29 linhas x 2 colunas
+Vale_IFRS_2025,76,2,camelot-stream,Vale_IFRS_2025_p076_t2.csv,12 linhas x 2 colunas

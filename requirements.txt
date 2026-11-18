@@ -1,0 +1,6 @@
+pymupdf
+pdfplumber
+camelot-py
+pandas
+matplotlib
+numpy

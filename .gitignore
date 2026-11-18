@@ -1,0 +1,6 @@
+# Os relatórios das empresas são públicos, mas não são redistribuídos aqui.
+*.pdf
+pdfs/
+saida/raw/
+saida/limpo/
+__pycache__/

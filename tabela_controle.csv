@@ -1,0 +1,11 @@
+﻿rotulo,empresa,tipo,grupo,arquivo,motor,paginas,palavras_limpo,linhas_removidas_repetidas,margem_topo,margem_rodape,paginas_sem_texto,paginas_possivel_sumario
+B3_IFRS_2025,B3,IFRS S1/S2,B,B3_IFRS_S1_S2_2025.pdf,PyMuPDF,50,20973,0,0.1,0.06,47 48,2
+B3_Anual_2025,B3,Relatório Anual,B,B3_Relatorio_Anual_2025.pdf,PyMuPDF,161,55751,0,0.1,0.06,141,2 4
+Irani_IFRS_2025,Irani,IFRS S1/S2,A,Irani_IFRS_S1_S2_2025.pdf,PyMuPDF,74,23231,3,0.1,0.06,,2
+Irani_RI_2025,Irani,Relato Integrado,A,Irani_Relato_Integrado_2025.pdf,PyMuPDF,68,17205,1,0.1,0.06,,4 5 6
+Natura_IFRS_2025,Natura,IFRS S1/S2,A,Natura_IFRS_S1_S2_2025.pdf,PyMuPDF,70,28378,2,0.1,0.06,,5
+Natura_RI_2025,Natura,Relato Integrado,A,Natura_Relatorio_Integrado_2025.pdf,PyMuPDF,89,30863,0,0.1,0.06,,2
+Renner_IFRS_2025,Lojas Renner,IFRS S1/S2,A,Renner_IFRS_S1_S2_2025.pdf,PyMuPDF,64,28929,0,0.1,0.06,,2 6
+Renner_Anual_2025,Lojas Renner,Relatório Anual,A,Renner_Relatorio_Anual_2025.pdf,PyMuPDF,155,51942,0,0.1,0.06,155,2 3 4 6
+Vale_IFRS_2025,Vale,IFRS S1/S2,B,Vale_IFRS_S1_S2_2025.pdf,PyMuPDF,116,59578,0,0.1,0.06,116,2
+Vale_Anual_2025,Vale,Relatório Anual,B,Vale_Relatorio_Anual_2025.pdf,PyMuPDF,117,56138,0,0.1,0.06,1 89 117,2 3 10
